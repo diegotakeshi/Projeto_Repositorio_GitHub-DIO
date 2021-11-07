@@ -1,0 +1,13 @@
+Download Git: <https://git-scm.com/downloads>
+
+Principais comandos Git:
+
+[git init] : Inicia um projeto que não esteja no repositório
+[git clone] : Comando para baixar o código-fonte existente de um repositório remoto (como o Github, por exemplo).
+[git branch] : Com branches (ou ramificações), vários desenvolvedores podem trabalhar paralelamente no mesmo projeto.
+[git checkout] : mudar de um branch para outro
+[git status] : fornece algumas informações sobre a branch em que você estiver no momento
+[git add] : incluir as alterações de um arquivo em nosso próximo commit
+[git commit] : definir um ponto de verificação no processo de desenvolvimento
+[git push] : envia e salva suas confirmações no repositório remoto
+[
